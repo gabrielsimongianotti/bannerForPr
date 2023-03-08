@@ -1,0 +1,20 @@
+.login {
+  height: 3rem;
+  min-width: 10px;
+  border-radius: 3rem;
+  background: #1F2729;
+  border: 0;
+  padding: 0 1rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  
+  font-weight: bold;
+  color: #E1E1E6;
+}
+
+.teste-login {
+  margin-left: 10px;
+}
